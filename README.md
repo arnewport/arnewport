@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arnewport
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on webdevelopment
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me N/A
 
 <!---
