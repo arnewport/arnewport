@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @arnewport
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me N/A
+Hi, I’m @arnewport
 
 <!---
 arnewport/arnewport is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
